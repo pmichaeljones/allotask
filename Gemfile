@@ -9,6 +9,15 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
+gem 'faker'
+gem 'fabrication'
+gem 'haml-rails'
+gem 'cancan'
+gem 'newrelic_rpm'
+gem 'devise'
+gem 'high_voltage', '~> 2.2.1'
+gem 'recipient_interceptor'
+gem 'figaro'
 
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
